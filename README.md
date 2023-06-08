@@ -26,7 +26,7 @@ El DFD es útil porque proporciona una vista general del sistema y permite ident
 A continuación vemos gráficamente el DFD desde la extracción hasta la visualización del dato.
 
 
-![DFD]()
+![DFD](https://github.com/AguirreMariaHerminia/Proyecto-Contabilium-/blob/main/Imagenes/DFD%20CBL.png)
 
 
 ## Pasos clave del proyecto
